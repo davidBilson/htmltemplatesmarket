@@ -10,7 +10,7 @@ body {
     padding: 0;
     box-sizing: border-box;
     font-family: 'Lato', sans-serif;
-    /* background: url(./image/circles.svg); */
+    background: url(./image/circles.svg);
     background-repeat: no-repeat;
     /* background-position: center; */
     background-size: cover;
